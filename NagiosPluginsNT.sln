@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NagiosPluginsNT", "NagiosPluginsNT\NagiosPluginsNT.csproj", "{8CE8BEB0-E921-4289-9971-6780B0717084}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check_tcp", "check_tcp\check_tcp.csproj", "{73E941CE-C184-44DB-8283-E80366771CE7}"
